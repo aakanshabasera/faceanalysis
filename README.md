@@ -1,2 +1,3 @@
 # faceanalysis
 AI-Powered Makeup Recommendation System 
+This AI-powered makeup recommendation system analyzes facial features to provide personalized beauty product suggestions. It detects skin tone to recommend matching foundation and concealer shades, identifies natural lip color for suitable lipstick options, and analyzes eye shape (e.g., hooded, siren) for tailored eye makeup advice. Additionally, it determines face shape to suggest contouring techniques. After processing the facial data, users can select their preferred brand, and the system will recommend compatible products. Built with machine learning and computer vision, this project aims to enhance beauty personalization with intelligent recommendations. 🚀✨
